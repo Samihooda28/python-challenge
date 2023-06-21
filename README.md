@@ -41,4 +41,4 @@ Then I used command to print the result's on terminal.
 
 Then I used the write command to export all the results into a text file.
 
-In this data set I used all collected all the data into output_txt and then used (writelines) function to print the data into the text file.
+In this data set I collected all the data into output_txt and then used (writelines) function to print the data into the text file.
