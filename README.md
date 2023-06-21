@@ -24,7 +24,7 @@ Then I used the write command to export all the results into a text file.
 
 In this data set I used command to print all line differnetly.
 
-In the first data set PyBank I used Python to find the following results.
+In the second data set PyPoll I used Python to find the following results.
 
          The total number of votes cast
 
